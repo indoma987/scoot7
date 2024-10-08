@@ -6,5 +6,9 @@ header{
 }
 
 .cartao_conteudo{
+    padding: 20px;
+    border: 1px salmon;
+    border-radius: 2px;
+    box-shadow: 0 4px 6px cornflowerblue;
     
 }
