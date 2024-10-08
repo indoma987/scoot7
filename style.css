@@ -10,5 +10,11 @@ header{
     border: 1px salmon;
     border-radius: 2px;
     box-shadow: 0 4px 6px cornflowerblue;
-    
+    transition: transform 0.2s;
+    background-color: aquamarine;
+    margin: 20px 10px;
+}
+
+.cartao_conteudo:hover{
+    transform: scale(1.02);
 }
