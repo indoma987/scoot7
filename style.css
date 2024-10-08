@@ -22,5 +22,7 @@ header{
 .cartao_conteudo_resposta{
     display: none;
     text-align: center;
-    padding:
+    padding: 20px;
+    background-color: blue;
+    color: azure;
 }
